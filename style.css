@@ -102,7 +102,7 @@ body {
     gap: 2rem;
     font-size: 0.9rem;
     font-weight: 400;
-    padding: 20px;
+    padding: 20px 30px;
     flex-direction: column;
   }
 
@@ -251,7 +251,7 @@ body {
   }
   .banner-content {
     top: -20%;
-    left: -5%;
+    left: -10%;
     transform: translateY(7.5rem);
   }
   .banner-content img {
@@ -522,7 +522,7 @@ body {
     margin-left: 1rem;
   }
   .content {
-    width: 20rem;
+    width: 15rem;
     justify-content: center;
     align-items: center;
     font-size: 0.7rem;
