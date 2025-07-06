@@ -1215,7 +1215,7 @@ textarea:focus {
 
 @media (max-width: 426px) {
   .form-wrapper {
-    max-width: 100%;
+    max-width: 85%;
     max-height: 100%;
     width: 375px;
     height: 375px;
